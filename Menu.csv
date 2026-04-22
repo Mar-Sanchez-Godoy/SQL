@@ -1,0 +1,11 @@
+codigo,nombre,precio,categoria
+1,Hamburguesa Clásica,9.50,Plato principal
+2,Pizza Margarita,11.00,Plato principal
+3,Ensalada César,8.20,Entrante
+4,Tacos de Pollo,7.80,Plato principal
+5,Sopa de Tomate,5.50,Entrante
+6,Pasta Carbonara,10.90,Plato principal
+7,Sándwich Club,6.75,Snack
+8,Sushi Variado (8 piezas),12.50,Especialidad
+9,Filete de Ternera,15.90,Plato principal
+10,Helado Artesanal,4.20,Postre
