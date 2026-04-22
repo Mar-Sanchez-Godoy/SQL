@@ -1,0 +1,102 @@
+[
+  {
+    "id_empleado": 1,
+    "nombre": "Laura Gómez",
+    "puesto": "Vendedora Senior",
+    "salario": "32000.00",
+    "sucursal": "Madrid",
+    "pais": "España",
+    "fecha_ingreso": "2019-03-12",
+    "ventas_euros": "185000.00"
+  },
+  {
+    "id_empleado": 2,
+    "nombre": "Carlos Ruiz",
+    "puesto": "Vendedor Junior",
+    "salario": "24000.00",
+    "sucursal": "Barcelona",
+    "pais": "España",
+    "fecha_ingreso": "2021-07-01",
+    "ventas_euros": "72000.00"
+  },
+  {
+    "id_empleado": 3,
+    "nombre": "Ana Martínez",
+    "puesto": "Gerente de Ventas",
+    "salario": "45000.00",
+    "sucursal": "Valencia",
+    "pais": "España",
+    "fecha_ingreso": "2018-11-20",
+    "ventas_euros": "250000.00"
+  },
+  {
+    "id_empleado": 4,
+    "nombre": "Javier Torres",
+    "puesto": "Analista de Datos",
+    "salario": "38000.00",
+    "sucursal": "Madrid",
+    "pais": "España",
+    "fecha_ingreso": "2020-02-10",
+    "ventas_euros": null
+  },
+  {
+    "id_empleado": 5,
+    "nombre": "María López",
+    "puesto": "Recursos Humanos",
+    "salario": "30000.00",
+    "sucursal": "Sevilla",
+    "pais": "España",
+    "fecha_ingreso": "2022-05-18",
+    "ventas_euros": null
+  },
+  {
+    "id_empleado": 6,
+    "nombre": "Pedro Sánchez",
+    "puesto": "Vendedor Senior",
+    "salario": "33000.00",
+    "sucursal": "Lisboa",
+    "pais": "Portugal",
+    "fecha_ingreso": "2017-09-03",
+    "ventas_euros": "198500.00"
+  },
+  {
+    "id_empleado": 7,
+    "nombre": "Sofía Almeida",
+    "puesto": "Vendedora Junior",
+    "salario": "23500.00",
+    "sucursal": "Oporto",
+    "pais": "Portugal",
+    "fecha_ingreso": "2023-01-15",
+    "ventas_euros": "54000.00"
+  },
+  {
+    "id_empleado": 8,
+    "nombre": "Ricardo Silva",
+    "puesto": "Gerente de Sucursal",
+    "salario": "42000.00",
+    "sucursal": "Lisboa",
+    "pais": "Portugal",
+    "fecha_ingreso": "2016-06-22",
+    "ventas_euros": null
+  },
+  {
+    "id_empleado": 9,
+    "nombre": "Elena Fernández",
+    "puesto": "Vendedora Senior",
+    "salario": "31000.00",
+    "sucursal": "Madrid",
+    "pais": "España",
+    "fecha_ingreso": "2020-10-05",
+    "ventas_euros": "160300.00"
+  },
+  {
+    "id_empleado": 10,
+    "nombre": "Tomás Herrera",
+    "puesto": "Vendedor Junior",
+    "salario": "25000.00",
+    "sucursal": "Barcelona",
+    "pais": "España",
+    "fecha_ingreso": "2022-08-30",
+    "ventas_euros": "68000.00"
+  }
+]

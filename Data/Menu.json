@@ -1,0 +1,62 @@
+[
+  {
+    "codigo": 1,
+    "nombre": "Hamburguesa Clásica",
+    "precio": "9.50",
+    "categoria": "Plato principal"
+  },
+  {
+    "codigo": 2,
+    "nombre": "Pizza Margarita",
+    "precio": "11.00",
+    "categoria": "Plato principal"
+  },
+  {
+    "codigo": 3,
+    "nombre": "Ensalada César",
+    "precio": "8.20",
+    "categoria": "Entrante"
+  },
+  {
+    "codigo": 4,
+    "nombre": "Tacos de Pollo",
+    "precio": "7.80",
+    "categoria": "Plato principal"
+  },
+  {
+    "codigo": 5,
+    "nombre": "Sopa de Tomate",
+    "precio": "5.50",
+    "categoria": "Entrante"
+  },
+  {
+    "codigo": 6,
+    "nombre": "Pasta Carbonara",
+    "precio": "10.90",
+    "categoria": "Plato principal"
+  },
+  {
+    "codigo": 7,
+    "nombre": "Sándwich Club",
+    "precio": "6.75",
+    "categoria": "Snack"
+  },
+  {
+    "codigo": 8,
+    "nombre": "Sushi Variado (8 piezas)",
+    "precio": "12.50",
+    "categoria": "Especialidad"
+  },
+  {
+    "codigo": 9,
+    "nombre": "Filete de Ternera",
+    "precio": "15.90",
+    "categoria": "Plato principal"
+  },
+  {
+    "codigo": 10,
+    "nombre": "Helado Artesanal",
+    "precio": "4.20",
+    "categoria": "Postre"
+  }
+]
