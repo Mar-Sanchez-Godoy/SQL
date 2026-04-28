@@ -98,9 +98,9 @@ These SQL exercises are designed to:
 Each script is intentionally simple, clean, and ready to load into Power BI.
 
 
+---
 
-
-#Castellano
+# Castellano
 
 ## 📘 Descripción de los Scripts SQL (Enfocados en Power BI)
 
